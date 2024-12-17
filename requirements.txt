@@ -1,0 +1,7 @@
+### dependency
+streamlit
+numpy
+rapidfuzz
+
+### local packages -
+-e . 
